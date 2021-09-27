@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#### I'm a Researcher and a Software Developer in Maringa, Brazil.
+#### I'm a Researcher and a Software Developer from Brazil.
 
 ### ABOUT ME NOW
 
