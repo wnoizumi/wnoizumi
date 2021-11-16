@@ -4,7 +4,6 @@
 
 ### ABOUT ME NOW
 
-- *Open to remote job opportunities*
 - Working as a Teaching Faculty at IFPR
 - (hopefully) Finishing a PhD in Computer Science at PUC-Rio
 - Working on a cool refactoring recommendation tool as part of my research (will be open source soon)
