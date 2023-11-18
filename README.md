@@ -1,12 +1,20 @@
 # Hi there 👋
 
-**I'm a Researcher and a Software Developer from Brazil.**
+**I'm a Software Engineer from Brazil.**
 
 ### ABOUT ME NOW
 
-- Software Developer at GoTo
+- Senior Software Engineer at GoTo
 - Working on a cool refactoring recommendation tool as part of my research (will be open source soon)
 
 ### BIO
 
-I have a PhD in Computer Science from the Pontifical Catholic University of Rio de Janeiro (PUC-RIO) and a bachelor degree in Computer Science from the State University of Maringá (UEM). I have over 12 years of software development experience, 6 of which were dedicated to teaching. I worked on research, development and consulting projects at the Software Engineering Laboratory at PUC-RIO (LES). I also worked as a developer at HSBC GLT, Objective Solutions and Cwork Sistemas. Most of my software development experience is with Java back-end development, using technologies like Java EE, JUnit, PostgreSQL and Oracle DB. As an academic, I conducted research in the field of Software Engineering, focusing on the following topics: Software Architecture and Design, Code Smells, Refactoring, Empirical Software Engineering and Search-Based Software Engineering. In my PhD, I worked on a technique to assist developers in identifying and removing design problems that occur when quality attributes are negatively impacted.
+I am a seasoned Senior Software Engineer at GoTo, with a rich academic background including a PhD, MSc, and BS in Informatics. My career spans over 13 years in software development, with a significant portion (6 years) dedicated to teaching at IFPR.
+
+My experience is not limited to academia and teaching. I have been actively involved in research, development, and consulting projects at the Software Engineering Laboratory at PUC-RIO (LES). I have also honed my skills as a developer at HSBC GLT, Objective Solutions, and Cwork Sistemas.
+
+My expertise lies in Java backend development, where I have extensively used technologies such as Java EE, SpringBoot, Hibernate, JUnit, Kafka, Postgres, and Kubernetes.
+
+As an academic, my research interests in Software Engineering are diverse, ranging from Software Architecture and Design, Code Smells, Refactoring, to Empirical Software Engineering and Search-Based Software Engineering. During my PhD, I developed a technique to aid developers in identifying and refactoring design problems that negatively impact quality attributes.
+
+I have had the privilege of publishing my work in esteemed conferences and journals, including ICSE (2016, 2018), MSR (2020, 2021, 2023), IST (2020), SCICO (2019), ICSME (2020), SPLC (2014), ESEM (2019), ISSRE (2019), and ICPC (2019, 2020). A testament to my research prowess, my MSc research was recognized as the third-best computer science dissertation in the Brazilian Contest of Theses and Dissertations in 2016.
