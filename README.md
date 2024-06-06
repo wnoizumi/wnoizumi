@@ -2,14 +2,9 @@
 
 **I'm a Software Engineer from Brazil.**
 
-### ABOUT ME NOW
-
-- Senior Software Engineer at GoTo
-- Working on a cool refactoring recommendation tool as part of my research (will be open source soon)
-
 ### BIO
 
-I am a seasoned Senior Software Engineer, with a rich academic background including a PhD, MSc, and BS in Informatics. My career spans over 13 years in software development, with a significant portion dedicated to teaching.
+I am a seasoned Software Engineer, with a rich academic background including a PhD, MSc, and BS in Informatics. My career spans over 13 years in software development, with a significant portion dedicated to teaching.
 
 My experience is not limited to academia and teaching. I have been actively involved in research, development, and consulting projects at the Software Engineering Laboratory at PUC-RIO (LES). I have also honed my skills as a developer at GoTo, HSBC GLT, Objective Solutions, and Cwork Sistemas.
 
